@@ -8,5 +8,5 @@ We used Dirichlet process (DP) priors, including an enriched Dirichlet Process (
 
 ## Structure of this repository
 
-The simulation code and data analysis code are in separate folders. The simulations are then organized into sub-folders by table number. Note: all these R scripts refer to either https://github.com/zeldow/edp-long for the EDP models and https://github.com/zeldow/dp-long for the DP models. 
+The simulation code and data analysis code are in separate folders. The simulations are then organized into sub-folders by table number. Note: all these R scripts refer to either https://github.com/zeldow/EDPlong for the EDP models and https://github.com/zeldow/DPlong for the DP models. 
 
